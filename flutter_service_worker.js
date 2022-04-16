@@ -3,7 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c384adcf6fa6890dfbbc364dd4e94620",
+  "assets/AssetManifest.json": "5e03d53e330d83fe787aee9d99e9552d",
+"assets/assets/images/football-1.jpg": "54a13e2b05d568f3a10b663271cb94f4",
+"assets/assets/images/football-2.jpg": "8a48d2ac252a3e5c10eb036f43299c55",
+"assets/assets/images/football-3.jpg": "47e8c86e144908d087f2d36bbaf45824",
 "assets/assets/images/shape.png": "2485716dce32e394f531a4b73531241d",
 "assets/assets/images/user-face-1.jpg": "7f87445af199c0098d0c21a8906f9a93",
 "assets/assets/images/user-face-2.jpg": "74e4933e6d4142b47d0a04a91bc396f3",
@@ -14,7 +17,7 @@ const RESOURCES = {
 "assets/assets/images/user-face-7.jpg": "5f324f7dd127cef651dff83a378d3de5",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "24d74940584b330597f416189ae69787",
+"assets/NOTICES": "21065b5fa13114270c2ec0afbb131847",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/timezone/data/2020a.tzf": "84285f1f81b999f1de349a723574b3e5",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
@@ -26,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f01843e1be4573610fee4b0e1478fa13",
-"/": "f01843e1be4573610fee4b0e1478fa13",
-"main.dart.js": "1ac1d3208caada83a95e6c959974e390",
+"index.html": "f71d7bf05aa3600f8d5f4ccaf447e706",
+"/": "f71d7bf05aa3600f8d5f4ccaf447e706",
+"main.dart.js": "375b9112efbf81fccb04965593fa1b12",
 "manifest.json": "f9bbffe02e391ca5e0f665cf12d18b7a",
 "version.json": "e6af9ba50ba562134ae3b44875d2cf6f"
 };
